@@ -1,0 +1,16 @@
+* {
+		margin: 0;
+		padding: 0;
+		}
+p {
+		font: 1.1em/1.4 Tahoma, Verdana, sans-serif;
+		margin-bottom: 1em;
+		}
+body {
+		font: Tahoma, Verdana, sans-serif;/* replaced fonts in all cases */
+		background: url("fruitbg1.jpg");/* replaced color with picture*/
+                background-size: 50%;
+                
+                
+                padding-bottom: 2em;
+		}

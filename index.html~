@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <title>Project Proposal</title>
+  <link href="localstyle.css" type="text/css" rel="stylesheet" />
+  <meta charset="utf-8" />
+</head> 
+
+<body>
+
+<h1 class="big">Drake Gens</h1>
+
+<p>I plan on creating a resume website. Of course, I want to have a page for my professional website, as well as a page for some personal projects. I also want a "contact me" form, maybe connected to a spreadsheet or database that keeps track of who is contacting me via my website. I haven't fully thought all the features and i'm sure ideas will come as the semester progresses, as far as what I can do with javascript and php.
+I understand that as a technical professional having a website is definitely a requirement and I want a website that will demonstrate my technical prowess and allow me to further my career.</p>
+
+
+
+
+</body>
+</head> 

@@ -1,0 +1,49 @@
+body { background: #FFFFDCC;
+       font-family: Georgia, "New Century Schoolbook", serif;
+       padding-right: 0.2in
+}
+
+a:link  {
+ font-weight: bold;
+ color: #369;
+}       
+                
+a:visited { 
+ font-weight: bold;
+ color:  #009966;
+}       
+                
+a:active {       
+ font-weight: bold;
+ color:  #990;
+}       
+
+a:hover {
+  font-weight: bold;
+  color:  #660099;
+}
+
+.beige      {background-color: #FFEFD5}
+
+.mygreen    {background-color: #DDFFDD}
+
+.paleyellow {background-color: #FFFFCC}
+
+.paleblue   {background-color: #99CCFF}
+
+.mypurple   {background-color: #DDDDFF}
+
+.myrose     {background-color: #FFCCCC}
+
+.big       {font-size: 18pt; font-family: Georgia, serif}
+
+.myname    {font-family: Georgia, serif; font-size: 24pt; font-weight: bold}
+
+.redtext   {color: red}
+
+li.separated {
+  margin-bottom: 1.5em;
+}
+
+
+

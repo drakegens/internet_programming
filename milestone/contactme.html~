@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="resumesite.css">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title> Contact Gens, Drake </title>
+
+</head>
+<body>
+<div id="myname">
+<h1>Contact Drake Gens</h1>
+</div>
+
+<div id="form">
+
+<form action="resultscontactme.php" method="post">
+
+<label>
+First Name
+<input type="text" name="fname" /> 
+</label>
+<label>
+Last Name
+<input type="text" name="lname" /> 
+</label>
+<label>
+Email
+<input type="text" name="email" /> 
+</label>
+<label>
+Why are you contacting me? <br />
+ <select name="reason">
+  <option value="employment opportunities">Employment Opportunities</option>
+  <option value="graduate education opportunities">Graduate Education Opportunities</option>
+  <option value="other">Other</option>
+</select>
+</label>
+Comments
+<label>
+
+<textarea name="comments" rows="4" cols="24" >
+</textarea>
+</label>
+<div id="button">
+<input type="submit" />
+</div>
+</div>
+</form>
+<script src="myscript.js"></script>
+
+</body>
+</html>
