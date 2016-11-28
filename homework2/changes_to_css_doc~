@@ -1,8 +1,0 @@
-css changes
-1) changed css background to background: #76c4ae;
-2) p selector font Impact, Charcoal
-3) changed visited links to hotpink
-4) changed #wrapper background color
-5) shifted <li> over by 50px
-6) #navigation changed color, text-transform to lowercase
-7) changed #navcontainer font size and text-align to justify
